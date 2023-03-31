@@ -1,6 +1,6 @@
 Name:		texlive-book-of-common-prayer
 Version:	62240
-Release:	1
+Release:	2
 Summary:	Typeset in the style of "Book of Common Prayer"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/book-of-common-prayer
