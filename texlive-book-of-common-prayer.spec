@@ -3,7 +3,7 @@ Version:	62240
 Release:	2
 Summary:	Typeset in the style of "Book of Common Prayer"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/book-of-common-prayer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/book-of-common-prayer
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/book-of-common-prayer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/book-of-common-prayer.doc.r%{version}.tar.xz
